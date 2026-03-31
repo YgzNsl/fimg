@@ -1,0 +1,15 @@
+{
+    "name": "fimg",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "pngjs": "^7.0.0"
+    }
+}
